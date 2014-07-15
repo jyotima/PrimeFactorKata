@@ -9,9 +9,6 @@
 
 namespace MathematicalCalculator.UnitTests
 {
-    using Microsoft.VisualStudio.TestTools.UnitTesting;
-
-    [TestClass]
     public class PrimeFactorsTests
     {
     }
